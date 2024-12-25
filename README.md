@@ -43,7 +43,7 @@ Welcome to **Crypto Match-3**, a puzzle game where you align and match shiny cry
    - `npm start`
 
 ## 📸 Cover Image:
-![Game Cover](cover.png)
+![Game Cover](covercrypto.png)
 
 ---
 
